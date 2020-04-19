@@ -5,10 +5,10 @@
 
 Screenshots:
 
-+Reference-style: 
++Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
 ![alt text][logo]
 
-[logo]: [logo]: https://github.com/leonardoamaro-dev/ecommerce-betting-system/blob/master/_preview/index01.png "Logo Title Text 2" "Logo Title Text 2"
-[logo]: [logo]: https://github.com/leonardoamaro-dev/ecommerce-betting-system/blob/master/_preview/index02.png "Logo Title Text 2" "Logo Title Text 2"
-[logo]: [logo]: https://github.com/leonardoamaro-dev/ecommerce-betting-system/blob/master/_preview/index03.png "Logo Title Text 2" "Logo Title Text 2"
-[logo]: [logo]: https://github.com/leonardoamaro-dev/ecommerce-betting-system/blob/master/_preview/index04.png "Logo Title Text 2" "Logo Title Text 2"
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
