@@ -18,7 +18,7 @@
                     <button class="rd-navbar-toggle toggle-original" data-rd-navbar-toggle=".rd-navbar-nav-wrap"><span></span></button>
                     <!-- RD Navbar Brand-->
                     <div class="rd-navbar-brand">
-                        <a class="brand-name" href="http://clickspeedy/"><img src="https://livedemo00.template-help.com/intense/classic/child/landing-business/images/logo-default-151x49.png" alt="" width="151" height="49"></a>
+                        <a class="brand-name" href="http://clickspeedy/"><img src="" alt="" width="151" height="49"></a>
                     </div>
                 </div>
                 <!-- RD Navbar Top Panel-->
