@@ -5,7 +5,7 @@
 
 Screenshots:
 
-![index 1][https://github.com/leonardoamaro-dev/ecommerce-betting-system/blob/master/_preview/index01.png]
-![index 2][https://github.com/leonardoamaro-dev/ecommerce-betting-system/blob/master/_preview/index02.png]
-![index 3][https://github.com/leonardoamaro-dev/ecommerce-betting-system/blob/master/_preview/index03.png]
-![index 4][https://github.com/leonardoamaro-dev/ecommerce-betting-system/blob/master/_preview/index04.png]
++![index 1][https://github.com/leonardoamaro-dev/ecommerce-betting-system/blob/master/_preview/index01.png]
++![index 2][https://github.com/leonardoamaro-dev/ecommerce-betting-system/blob/master/_preview/index02.png]
++![index 3][https://github.com/leonardoamaro-dev/ecommerce-betting-system/blob/master/_preview/index03.png]
++![index 4][https://github.com/leonardoamaro-dev/ecommerce-betting-system/blob/master/_preview/index04.png]
